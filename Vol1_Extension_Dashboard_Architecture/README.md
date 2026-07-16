@@ -9,7 +9,7 @@ This folder documents the modular architecture and visual intelligence layer of 
 *   📁 **[01_Main_Data_Table](./01_Main_Data_Table)**: Houses the documentation and configuration for our structured, clean source database (`CleanSalesData`) featuring our custom KPI columns.
 *   📁 **[02_Pivot_Tables](./02_Pivot_Tables)**: Contains the backend analytical engine (`Dashboard_Backend`) where data is summarized by product lines and retail accounts.
 *   📁 **[03_Dashboard_Charts](./03_Dashboard_Charts)**: Represents the high-fidelity presentation layer (`Dashboard`) containing the interactive UI.
-*   📁 **[04_Complete_Workbook](./04_Complete_Workbook)**: Hosts the final completed, interactive `.xlsx` workbook featuring all the layers integrated.
+*   📁 **[04_Complete_Workbook](.MDG_Sales_Analytics_Dashboard(versionVolume1-Extension))**: Hosts the final completed, interactive `.xlsx` workbook featuring all the layers integrated.
 
 ---
 
