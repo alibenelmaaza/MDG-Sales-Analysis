@@ -9,7 +9,7 @@ The project is structured into modular developmental phases to solve real-world 
   ## 🗺️ Table of Contents (Project Roadmap)
 
 ### 🧹 [Vol 1: Data Gathering & Automation (The Foundation)](./Vol1_Data_Gathering) Focuses on establishing a robust data infrastructure and an automated, self-healing ETL pipeline in Excel Power Query.
-* 📂 **Step 1: Raw Data Ingestion** -> [Browse Raw Files](./Vol1_Data_Gathering/01_Raw_Files)
+* 📂 **Step 1: Raw Data Ingestion** -> Browse Raw Data: [./Vol1_Data_Gathering/01_Raw_Files](./Vol1_Data_Gathering/01_Raw_Files)
 * 💻 **Step 2: Custom ETL Formula Script** -> [View Power Query M-Code](./Vol1_Data_Gathering/02_Power_Query_M_Code)
 * 📊 **Step 3: Cleaned Unified Database** -> [Access Clean Data Model](./Vol1_Data_Gathering/03_Clean_Data_Model)
  
