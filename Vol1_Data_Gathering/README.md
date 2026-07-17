@@ -15,10 +15,12 @@ The project is structured into modular developmental phases to solve real-world 
  
  ##  Vol 1 Resume: Ingestion & ETL Pipeline Detail
  ```text
-Raw Daily Files (Data Lake) ├── sales_moderntrade_n1.xlsx
+Raw Daily Files (Data Lake)
+   ├── sales_moderntrade_n1.xlsx
        ├── sales_moderntrade_n2.xlsx
           └── sales_moderntrade_n3.xlsx
-               │ ▼ [Automated Power Query Ingestion Engine] Cleaned & Consolidated Table (Gold Standard).
+               │ ▼
+        [Automated Power Query Ingestion Engine] Cleaned & Consolidated Table (Gold Standard).
 ````
 
 
