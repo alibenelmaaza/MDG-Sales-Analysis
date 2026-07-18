@@ -4,7 +4,7 @@
 ---
 **📁 Repository Structure & Methodology:**
 ---
-  - **0. Methodology and Setu Section:**
+  - **0. Methodology and Setup Section:**
 
 - ***Description:*** This section outlines the initial data ingestion and preparation phase. It covers importing the raw sales dataset, converting data types (e.g., datetime formatting), and filtering the records to isolate the target products.
 
